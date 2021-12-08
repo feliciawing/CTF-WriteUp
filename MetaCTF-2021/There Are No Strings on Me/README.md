@@ -14,5 +14,5 @@ So then we checked the file from IDA Pro and then boom we found the flag right i
 
 ![](img/flag.JPG)
 
-Flag: `MetaCTF{this_is_the_most_secure_ever}`
+Flag : `MetaCTF{this_is_the_most_secure_ever}`
   
