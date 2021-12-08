@@ -16,10 +16,10 @@ So we know that one time pad used twice becomes decryptable. So here we used [tw
 
 Here we put the ciphertext 1 and 2
 
-![](img/hex.png)
+![](img/hex.PNG)
 
 Then because we already know the plaintext 1 we could insert it there and there we go, we found the plaintext 2 which is the flag
 
-![](img/flag.png)
+![](img/flag.PNG)
 
 Flag : `MetaCTF{you're_better_than_steve!}`
