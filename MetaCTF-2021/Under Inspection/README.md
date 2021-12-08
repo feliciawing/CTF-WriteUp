@@ -9,11 +9,11 @@
 ### Steps
 
 At first we were given a link to a website which shows a login page
-![image](img/login.png)
+![image](img/login.PNG)
 
 With the clue of the name that is Under 'Inspection', We checked the page source.
 
-![image](img/page-source.png)
+![image](img/page-source.PNG)
 
 Here we found a lot of flags but witch one is the right flag? So we read the code belom and we see if the username is Jazz the will print out the flag. So we know that the correct flag is Jazz's
 
