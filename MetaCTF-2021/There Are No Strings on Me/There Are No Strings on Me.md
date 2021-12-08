@@ -1,4 +1,4 @@
-# MetaCTF 2021\
+# MetaCTF 2021
 
 ## There Are No Strings on Me
 
@@ -12,4 +12,7 @@ At first we were given a file named `strings`. So we ran `file` to know what typ
 
 So then we checked the file from IDA Pro and then boom we found the flag right inside the source code.
 
-![image]
+![](img/flag.JPG)
+
+Flag: `MetaCTF{this_is_the_most_secure_ever}`
+  
