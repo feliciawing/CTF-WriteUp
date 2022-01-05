@@ -10,15 +10,15 @@ So we were given a event logs file named `bruteforce.evtx`
 
 Which then after we opened it we could see there is some login attempt
 
-![bruteforce](img/bruteforce.png)
+![bruteforce](img/bruteforce.PNG)
 
 And which after we scrolled down a little bit we see more login attempt which is a bruteforce as it happends in a shorttime and in a row
 
-![bruteforce](img/bruteforce1.png)
+![bruteforce](img/bruteforce1.PNG)
 
 So we did some analyzing which we found out that most of account name used for the bruteforce is `ericm`
 
-![](img/flag.png)
+![](img/flag.PNG)
 
 So we tried to submit the account name combined with the flag form and it's correct
 
